@@ -1,0 +1,9 @@
+ID,Saving,Existing,Income,Risk
+1,Average,Hight,70000,No
+2,Low,Low,50000,Yes
+3,Hight,Average,30000,Yes
+4,Average,Average,50000,No
+5,Low,Average,100000,No
+6,Hight,Hight,30000,No
+7,Low,Low,30000,Yes
+8,Average,Average,70000,No

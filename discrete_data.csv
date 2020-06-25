@@ -1,0 +1,9 @@
+Stt,Shape,Height,Gender,Decision
+1,Big,Average,Male,Yes
+2,Small,Short,Male,Yes
+3,Small,Average,Male,Yes
+4,Big,Hight,Male,No
+5,Small,Average,Female,No
+6,Small,Hight,Male,No
+7,Small,Hight,Female,No
+8,Big,Average,Female,No
